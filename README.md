@@ -1,5 +1,5 @@
 # Hi there, I am Shankarshan Dwivedi
-Welcome to my github profile. I am a passionate programmer and developer working with mern stack and pursuing B.Tech from NIT Bhopal.
+Welcome to my github profile. I am a passionate programmer and developer working with MERN stack and pursuing B.Tech from NIT Bhopal.
 <!--
 **theshankarshandwivedi/theshankarshandwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
